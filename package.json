@@ -1,0 +1,22 @@
+{
+  "name": "jsexercises",
+  "version": "0.1.1",
+  "description": "Exercises of javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "test:unit": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "ES5",
+    "ES6"
+  ],
+  "author": "Daxez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
